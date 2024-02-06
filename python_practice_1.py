@@ -1,0 +1,1 @@
+print("Vladyslava Rudas, IPZ-8")
